@@ -11,7 +11,7 @@ Strona typu multi-page prezentująca ofertę firmy zajmującej się spływami ka
 - React,
 - Google Fonts
 
-**Wykorzystane paczki
+**Wykorzystane paczki:**
 - React Router DOM
 - React Icons
 - Node Sass
