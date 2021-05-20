@@ -2,7 +2,7 @@
 
 **Wykonawca:** Mateusz Baciak
 
-**Opis prjektu**
+**Opis prjektu:**
 Strona typu multi-page prezentująca ofertę firmy zajmującej się spływami kajakowymi
 
 **Użyte technologie:**
