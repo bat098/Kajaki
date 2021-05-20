@@ -13,6 +13,7 @@ Strona typu multi-page prezentująca ofertę firmy zajmującej się spływami ka
 **Użyte technologie:**
 - HTML
 - CSS/SCSS,
+- JavaScript
 - React,
 - Google Fonts
 
